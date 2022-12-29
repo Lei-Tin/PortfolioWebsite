@@ -24,7 +24,7 @@ const imageAltText = "Glittery Picture of Lights";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Computer Science student studying at University of Toronto. I am interested in developing software that solves different kinds of problems. ";
+  "Currently a University Student studying Computer Science. I am interested in developing software that solves different kinds of problems. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -51,10 +51,11 @@ const About = () => {
       <img className="background" src={image} alt={imageAltText} />
       <div
         style={{
+          justifyContent: "center",
           backgroundColor: "white",
           width: "50%",
-          padding: "4rem",
-          margin: "3rem auto",
+          padding: "6rem",
+          margin: "10rem auto",
           textAlign: "center",
         }}
       >
