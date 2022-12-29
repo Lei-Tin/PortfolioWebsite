@@ -4,6 +4,8 @@ This is a repository created from a template portfolio webpage repository to tes
 
 The template link is here: https://github.com/education/codespaces-project-template-js
 
+My portfolio website will be deployed at: https://www.hleitr.me
+
 # Skills acquired through this webpage
 
 I have managed to read JavaScript code throughout this whole project, and also incorporated my own part into it. 
