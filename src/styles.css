@@ -15,6 +15,7 @@ body {
   height: 100%;
   width: 100%;
   font-family: "Montserrat", sans-serif;
+  font-size: 0.85vw;
 }
 
 div#main {
@@ -28,19 +29,21 @@ section {
 
 section.dark {
   height: 100vh;
+  width: 100vw;
   color: white;
   background: rgba(0, 0, 0, 0.25);
 }
 
 section.light {
   height: 80vh;
+  width: 100vw;
   color: black;
   background: rgba(255, 255, 255, 0.35);
   padding: 8rem 0;
 }
 
 section img.background {
-  width: 100vmax;
+  width: 100vw;
   height: 100%;
   z-index: -1;
   position: absolute;
@@ -71,18 +74,18 @@ h3 {
 }
 
 p {
-  font-size: 18px;
+  font-size: 1rem;
   line-height: 1.5;
   margin-bottom: 0;
   font-weight: 300;
 }
 
 p.large {
-  font-size: 24px;
+  font-size: 1.25rem;
 }
 
 p.small {
-  font-size: 15px;
+  font-size: 0.95rem;
 }
 
 hr {
