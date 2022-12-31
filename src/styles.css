@@ -18,6 +18,11 @@ body {
   font-size: 0.85vw;
 }
 
+.name {
+  margin: auto;
+  margin-top: 30vh;
+}
+
 div#main {
   display: flex;
   flex-direction: column;
@@ -58,6 +63,7 @@ h1 {
   font-weight: 300;
   font-family: "Montserrat", serif;
   font-size: 7rem;
+  text-align: center;
 }
 
 h2 {
@@ -110,9 +116,9 @@ a:hover {
 }
 
 .container {
-  margin: 20px auto;
+  margin: auto;
   display: grid;
-  grid-template-columns: 330px 300px;
+  grid-template-columns: 20.625rem 18.75rem;
   grid-gap: 20px;
 }
 
