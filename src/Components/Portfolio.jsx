@@ -33,32 +33,31 @@ const projectList = [
   {
     title: "Bill Gates: A bill recording software",
     description:
-      "Worked in a group of 8 to create a fully functional GUI based billing software with cloud storage capabilities using Java and SQL.",
+      "Worked in a group of 8 to create a fully functional GUI based billing software with cloud storage capabilities using Java and SQL",
     url: "https://github.com/Lei-Tin/BillGates",
   },
   {
     title: "TicTacToeAI",
     description:
-      "Created an AI that tries to play TicTacToe with the highest probability of ”White not winning”.",
+      "Created an AI that tries to play TicTacToe with the highest probability of ”White not winning”",
     url: "https://github.com/Lei-Tin/TicTacToeAI",
   },
   {
     title: "Majsoul Email Reviewer",
     description:
-      "Configured an Email Bot to analyze Majsoul logs and sends Akochan (Mahjong AI) reviews back to sender.",
+      "Configured an Email Bot to analyze Majsoul logs and sends Akochan (Mahjong AI) reviews back to sender",
     url: "https://github.com/Lei-Tin/MajsoulEmailReviewer",
   },
   {
     title: "Data visualization application for COVID-19 Data",
     description:
-      "Created a data visualizing application with GUI to capture correlations between school closures and COVID-19 trends around the globe.",
+      "Created a data visualizing application with GUI to capture correlations between school closures and COVID-19 trends around the globe",
     url: "https://github.com/Lei-Tin/COVID19-Data-Visualization",
   },
   {
     title: "Personal Blog",
-    description:
-      "Created a data visualizing application with GUI to capture correlations between school closures and COVID-19 trends around the globe.",
-    url: "https://github.com/Lei-Tin/COVID19-Data-Visualization",
+    description: "Built a personal web page built using Jekyll framework with GitHub Pages",
+    url: "https://github.com/Lei-Tin/Lei-Tin.github.io",
   },
   {
     title: "PySnake",
