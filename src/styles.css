@@ -23,6 +23,11 @@ body {
   margin-top: 30vh;
 }
 
+.button {
+  margin: auto;
+  margin-top: 20vh;
+}
+
 div#main {
   display: flex;
   flex-direction: column;
