@@ -45,7 +45,7 @@ section.dark {
 }
 
 section.light {
-  height: 80vh;
+  height: 100vh;
   width: 100vw;
   color: black;
   background: rgba(255, 255, 255, 0.35);
